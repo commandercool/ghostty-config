@@ -1,0 +1,8 @@
+theme = zenburn
+font-size = 20
+copy-on-select = true
+shell-integration = zsh
+macos-option-as-alt = true
+window-save-state = always
+cursor-style = block
+shell-integration-features = no-cursor
